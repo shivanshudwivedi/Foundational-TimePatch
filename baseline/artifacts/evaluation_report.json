@@ -1,0 +1,24 @@
+{
+  "model_architecture": "Two-Stage FNN (Coarse + Refinement)",
+  "test_rmse_state_only": 0.01708525340395736,
+  "test_mae_state_only": 0.009636473895353671,
+  "num_test_samples": 580,
+  "input_steps": 24,
+  "output_steps": 6,
+  "features": [
+    "x",
+    "y",
+    "z",
+    "vx",
+    "vy",
+    "vz",
+    "x_sun",
+    "y_sun",
+    "z_sun",
+    "x_jup",
+    "y_jup",
+    "z_jup"
+  ],
+  "num_state_features": 6,
+  "num_exog_features": 6
+}

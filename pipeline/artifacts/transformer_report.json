@@ -1,0 +1,9 @@
+{
+  "model": "AsteroidTransformer (Lightning)",
+  "checkpoint_path": "/Users/shivanshu/Documents/Senior Project/pipeline/artifacts/best_model.ckpt",
+  "test_rmse": 8.44693640829064e-05,
+  "test_mae": 4.304722824599594e-05,
+  "hparams": {
+    "lr": 0.0001
+  }
+}

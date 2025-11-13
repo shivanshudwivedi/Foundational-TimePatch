@@ -1,0 +1,38 @@
+{
+  "project": "Foundational Asteroid Transformer",
+  "features": [
+    "x",
+    "y",
+    "z",
+    "vx",
+    "vy",
+    "vz"
+  ],
+  "num_features": 6,
+  "asteroids": [
+    {
+      "id": 0,
+      "name": "1"
+    },
+    {
+      "id": 1,
+      "name": "2"
+    },
+    {
+      "id": 2,
+      "name": "3"
+    },
+    {
+      "id": 3,
+      "name": "4"
+    },
+    {
+      "id": 4,
+      "name": "5"
+    }
+  ],
+  "num_asteroids": 5,
+  "input_steps": 24,
+  "output_steps": 6,
+  "created_at": "2025-10-30T00:34:37.706332Z"
+}
